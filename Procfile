@@ -1,0 +1,1 @@
+web: gunicorn /src/theorblog.wsgi --log-file -
